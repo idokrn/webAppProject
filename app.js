@@ -9,7 +9,7 @@ server.get('/products', "???") // Product
 // server.get('/supplier', "???") // Supplier
 // server.get('/admin', "???") // Admin
 // server.get('/map', "???") // Map
-// server.get('/social', "???") // Social
+ server.get('/social', "???") // Social
 
 
 server.listen(80)
